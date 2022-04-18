@@ -1,4 +1,4 @@
-### Hi, I'm Ben.
+### Hi, I'm Ben. (͠≖ ͜ʖ͠≖)👌
 
 Experienced in: python, java, javascript, html, css
 
@@ -9,6 +9,6 @@ Newbie at: c#
 Skills: 
 - Frontend (virtual DOM w/ React and real DOM w/ HTML)
 - Backend (SQL, SQLite, database logic)
-- Frameworks (Flask, a bit of Express.js)
+- Frameworks (Flask, very little Express.js)
 - Robotics (control flow)
 
