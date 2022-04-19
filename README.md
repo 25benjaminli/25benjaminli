@@ -7,7 +7,7 @@ Mid at: c, c++
 Newbie at: c#
 
 Skills: 
-- Frontend (virtual DOM w/ React and real DOM w/ HTML)
+- Frontend (React, regular pages with html)
 - Backend (SQL, SQLite, database logic)
 - Frameworks (Flask, very little Express.js)
 - Robotics (control flow)
