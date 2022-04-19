@@ -11,6 +11,3 @@ Skills:
 - Backend (SQL, SQLite, database logic)
 - Frameworks (Flask, very little Express.js)
 - Robotics (control flow)
-
-Stats:
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=25benjaminli&show_icons=true&theme=radical)
