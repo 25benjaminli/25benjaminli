@@ -12,3 +12,5 @@ Skills:
 - Frameworks (Flask, very little Express.js)
 - Robotics (control flow)
 
+Stats:
+https://github-readme-stats.vercel.app/api?username=25benjaminli&show_icons=true&theme=radical
