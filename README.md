@@ -17,7 +17,7 @@ I am improving at: c, c++, and dart.
 - Node.js
 - Postgres
 - Tensorflow
-- Django
+- And various other python libraries
 
 
 Skills: 
