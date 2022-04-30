@@ -1,18 +1,27 @@
 # Hi, I'm Ben. (͠≖ ͜ʖ͠≖)👌
-## I enjoy full stack development
-Experienced in: python, java, javascript, html, css, typescript, bash
+## I am a student from New Jersey who enjoys full stack development for web and mobile applications.
 
-Mid at: c, c++
+I am proficient in a number of languages, including **python, javascript, java**, typescript, html, css, and SQL. 
 
-Newbie at: c#, dart 
+I am improving at: c, c++, and dart.
+
+**Experience with the following libraries/tools**:
+- Flask
+- SQLite3
+- React
+- MySQL
+- PROS (for VEX Robotics)
+- Firebase
+- Flutter
+- Three.js
+- Node.js
+- Postgres
+- Tensorflow
+- Django
+
 
 Skills: 
-- Frontend (React, regular pages with html)
-- Backend (SQL, SQLite, database logic, REST Apis)
-- Web Frameworks (Flask, very little Express.js)
-- App Frameworks (Flutter)
-- Millburn VEX Robotics member (control theory, some physics)
-- Experienced with git version management
-
-
-
+- Full stack - skills in both frontend + backend development
+- Web + App Development
+- Millburn VEX Robotics member (control theory)
+- Experienced with git and github version management for projects
