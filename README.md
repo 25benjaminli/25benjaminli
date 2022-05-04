@@ -11,17 +11,17 @@ I am improving at: c, c++, and dart.
 - React
 - MySQL
 - PROS (for VEX Robotics)
-- Firebase
 - Flutter
+- Firebase
 - Three.js
 - Node.js
-- Postgres
+- Pygame
 - Tensorflow
 - And various other python libraries
 
 
 Skills: 
-- Full stack - skills in both frontend + backend development
-- Web + App Development
+- Full stack - skills in both frontend & backend development
+- Development of asynchronous web and mobile applications
 - Millburn VEX Robotics member (control theory)
 - Experienced with git and github version management for projects
