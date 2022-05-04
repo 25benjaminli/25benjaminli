@@ -23,3 +23,7 @@ Skills:
 - Development of asynchronous web and mobile applications
 - Millburn VEX Robotics member (control theory)
 - Experienced with git and github version management for projects
+
+My website (under development): https://25benjaminli.github.io/
+
+Contact me via discord (lmao.#0369)
