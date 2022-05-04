@@ -19,7 +19,7 @@ I am proficient in a number of languages, including **python, javascript, java**
 
 
 Skills: 
-- Full stack - skills in both frontend & backend development
+- Full stack - skills in both frontend & backend development, deployment to the web via platforms such as heroku
 - Development of asynchronous web and mobile applications
 - Millburn VEX Robotics member (control theory)
 - Experienced with git and github version management for projects
