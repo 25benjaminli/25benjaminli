@@ -1,7 +1,7 @@
 # Hi, I'm Ben. (͠≖ ͜ʖ͠≖)👌
 ## I am a student from New Jersey who enjoys full stack development for web and mobile applications.
 
-I am proficient in a number of languages, including **python, javascript, java**, typescript, html, css, and SQL. 
+I am proficient in a number of languages, including **python, javascript, java**, html, css, and SQL. 
 
 I am improving at: c, c++, and dart.
 
