@@ -31,4 +31,4 @@ Contact me via discord (lmao.#0369)
 My github stats:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=25benjaminli)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=25benjaminli)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
