@@ -1,5 +1,5 @@
 # Hi, I'm Ben. (͠≖ ͜ʖ͠≖)👌
-## I am a student from New Jersey who enjoys full stack development for web and mobile applications.
+## I am a student from New Jersey who enjoys full stack development for web and mobile applications, and bug developer.
 
 I am proficient in a number of languages, including **python, javascript, java**, html, css, SQL, c, c++, and dart.
 
@@ -28,6 +28,7 @@ My website (under development): https://25benjaminli.github.io/
 
 Contact me via discord (lmao.#0369)
 
+
 My github stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=25benjaminli&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=25benjaminli&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
