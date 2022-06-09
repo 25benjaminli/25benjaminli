@@ -3,7 +3,7 @@
 
 Languages:
 
-![1200px-Python-logo-notext svg](https://user-images.githubusercontent.com/76795078/172741500-1af52e3a-120a-4c6a-88fd-f0383c0e270b.png =100x100)
+![1200px-Python-logo-notext svg](https://user-images.githubusercontent.com/76795078/172741500-1af52e3a-120a-4c6a-88fd-f0383c0e270b.png | width=100)
 ![1200px-ISO_C++_Logo svg](https://user-images.githubusercontent.com/76795078/172741533-69f340d6-a3ac-4502-9ff2-fc7b3dc15488.png =100x100)
 ![flutter-logo-sharing](https://user-images.githubusercontent.com/76795078/172741351-b6be9d60-314a-4c18-a177-d06095433c81.png =200x100)
 ![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/76795078/172741404-7a5ad552-e323-4530-b87f-6644f4b67a37.png =100x100)
