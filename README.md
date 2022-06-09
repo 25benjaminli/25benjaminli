@@ -10,9 +10,10 @@ Languages:
 
 
 **Libraries/Tools**
-![1200px-Flask_logo svg](https://user-images.githubusercontent.com/76795078/172741066-51549074-5055-4686-a438-6805e25fc0d4.png)
-![SQLite370 svg](https://user-images.githubusercontent.com/76795078/172741109-23ea7b2d-d896-4699-8573-84c2aa380740.png)
-![123097191-e198b480-d3fd-11eb-903c-4c267f59fac1](https://user-images.githubusercontent.com/76795078/172741273-f29b227c-3210-47ec-b7dc-104dbbd92a05.png)
+<img src = "https://user-images.githubusercontent.com/76795078/172741066-51549074-5055-4686-a438-6805e25fc0d4.png" width = "200" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172741109-23ea7b2d-d896-4699-8573-84c2aa380740.png" width = "200" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172741273-f29b227c-3210-47ec-b7dc-104dbbd92a05.png" width = "100" height = "100">
+
 ![image00](https://user-images.githubusercontent.com/76795078/172741314-b48b4482-925b-4eb3-b4c9-bda951a84d0b.png)
 ![1631110818-logo-react-js](https://user-images.githubusercontent.com/76795078/172741666-d51f8775-19bb-49d7-9b8a-a11c5c7b408e.png)
 ![1_aDcnXab1QC_5KF8JUxDEYA](https://user-images.githubusercontent.com/76795078/172741720-94a54d91-1268-48e2-a65f-4841828b579d.png)
