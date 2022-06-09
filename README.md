@@ -17,7 +17,7 @@ Languages:
 
 
 <img src = "https://user-images.githubusercontent.com/76795078/172741314-b48b4482-925b-4eb3-b4c9-bda951a84d0b.png" width = "215" height = "100">
-<img src = "https://user-images.githubusercontent.com/76795078/172741666-d51f8775-19bb-49d7-9b8a-a11c5c7b408e.png" width = "100" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172741666-d51f8775-19bb-49d7-9b8a-a11c5c7b408e.png" width = "150" height = "100">
 <img src = "https://user-images.githubusercontent.com/76795078/172741720-94a54d91-1268-48e2-a65f-4841828b579d.png" width = "200" height = "100">
 <img src = "https://user-images.githubusercontent.com/76795078/172741753-c6edcca3-41d8-4dda-b875-0a5f521457a8.png" width = "230" height = "100">
 
