@@ -5,7 +5,7 @@ Languages:
 
 <img src = "https://user-images.githubusercontent.com/76795078/172741500-1af52e3a-120a-4c6a-88fd-f0383c0e270b.png" width = "100" height = "100">
 <img src = "https://user-images.githubusercontent.com/76795078/172741533-69f340d6-a3ac-4502-9ff2-fc7b3dc15488.png" width = "100" height = "100">
-<img src = "https://user-images.githubusercontent.com/76795078/172741351-b6be9d60-314a-4c18-a177-d06095433c81.png" width = "100" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172741351-b6be9d60-314a-4c18-a177-d06095433c81.png" width = "200" height = "100">
 <img src = "https://user-images.githubusercontent.com/76795078/172741404-7a5ad552-e323-4530-b87f-6644f4b67a37.png" width = "100" height = "100">
 
 
