@@ -10,15 +10,15 @@ Languages:
 
 
 **Libraries/Tools**
-<img src = "https://user-images.githubusercontent.com/76795078/172963161-76e5826c-6748-414d-98b5-437e9d557a36.jpg" width = "250" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172963161-76e5826c-6748-414d-98b5-437e9d557a36.jpg" width = "200" height = "100">
 <img src = "https://user-images.githubusercontent.com/76795078/172741109-23ea7b2d-d896-4699-8573-84c2aa380740.png" width = "200" height = "100">
 <img src = "https://user-images.githubusercontent.com/76795078/172741273-f29b227c-3210-47ec-b7dc-104dbbd92a05.png" width = "100" height = "100">
 
 
-<img src = "https://user-images.githubusercontent.com/76795078/172741314-b48b4482-925b-4eb3-b4c9-bda951a84d0b.png" width = "100" height = "100">
-![1631110818-logo-react-js](https://user-images.githubusercontent.com/76795078/172741666-d51f8775-19bb-49d7-9b8a-a11c5c7b408e.png)
-![1_aDcnXab1QC_5KF8JUxDEYA](https://user-images.githubusercontent.com/76795078/172741720-94a54d91-1268-48e2-a65f-4841828b579d.png)
-![68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67](https://user-images.githubusercontent.com/76795078/172741753-c6edcca3-41d8-4dda-b875-0a5f521457a8.png)
+<img src = "https://user-images.githubusercontent.com/76795078/172741314-b48b4482-925b-4eb3-b4c9-bda951a84d0b.png" width = "215" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172741666-d51f8775-19bb-49d7-9b8a-a11c5c7b408e.png" width = "100" height = "110">
+<img src = "https://user-images.githubusercontent.com/76795078/172741720-94a54d91-1268-48e2-a65f-4841828b579d.png" width = "200" height = "100">
+<img src = "https://user-images.githubusercontent.com/76795078/172741753-c6edcca3-41d8-4dda-b875-0a5f521457a8.png" width = "215" height = "100">
 
 
 
