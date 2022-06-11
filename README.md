@@ -1,5 +1,5 @@
 # Hi, I'm Ben. (͠≖ ͜ʖ͠≖)👌
-## I am a student from New Jersey who enjoys full stack development for web and mobile applications, and bug developer.
+## I am a student from New Jersey who enjoys full stack development for web and mobile applications, and bug developer. I also hope to be involved in the creation and application of cutting edge AI technology.
 
 Languages:
 <br>
