@@ -1,4 +1,4 @@
-# Hi, I'm Ben. (͠≖ ͜ʖ͠≖)👌
+# Hi, I'm Ben. 👋
 ## I am a student from New Jersey who enjoys full stack development for web and mobile applications, and bug developer. I also hope to be involved in the creation and application of cutting edge AI technology.
 
 Languages:
@@ -26,6 +26,7 @@ Languages:
 
 Skills: 
 - Full stack - skills in both frontend & backend development, deployment to the web via platforms such as heroku
+- Artificial Intelligence applications (computer vision, regression algorithms, etc.)
 - Development of asynchronous web and mobile applications
 - Millburn VEX Robotics member (control theory)
 - Experienced with git and github version management for projects
