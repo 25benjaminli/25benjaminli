@@ -1,6 +1,9 @@
 # Hi, I'm Ben. 👋
 ## I am a student from New Jersey who enjoys full stack development for web and mobile applications, and bug developer. I am also involved in the creation and application of AI technology in research projects.
 
+Stats:
+https://wakatime.com/badge/user/0fcc4e6d-00f1-4837-8d42-f65a48e76348.svg
+
 Skills: 
 - Full stack - skills in both frontend & backend development, deployment to the web via platforms such as heroku
 - Artificial Intelligence (Computer vision, ML algorithms)
