@@ -1,5 +1,5 @@
 # Hi, I'm Ben. 👋
-## I am a student from New Jersey who enjoys full stack development for web and mobile applications. I am also very interested in the creation and application of AI technology in research projects (specifically in the real of bioinformatics).
+## I am interested in the creation and application of ML in research projects (especially in the realm of bioinformatics and metagenomics). I have experience in full stack development for web and mobile applications.
 
 Stats:
 [![wakatime](https://wakatime.com/badge/user/0fcc4e6d-00f1-4837-8d42-f65a48e76348.svg)](https://wakatime.com/@0fcc4e6d-00f1-4837-8d42-f65a48e76348)
