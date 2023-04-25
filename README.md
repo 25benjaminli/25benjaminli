@@ -5,7 +5,6 @@ Stats:
 
 [![wakatime](https://wakatime.com/badge/user/0fcc4e6d-00f1-4837-8d42-f65a48e76348.svg)](https://wakatime.com/@0fcc4e6d-00f1-4837-8d42-f65a48e76348)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=25benjaminli&count_private=true)
 
 Skills: 
 - Artificial Intelligence & ML (Computer vision with YOLOv5 & YOLOv8, Ensemble models (e.g. stacked, bagging), etc.)
