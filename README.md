@@ -13,8 +13,6 @@ Skills:
 - Millburn Robotics member (control theory)
 - Experienced with git and github version management for projects
 
-Website: https://25benjaminli.github.io/
-
 Linkedin: https://www.linkedin.com/in/benjamin-li-613a16230/
 
 You can contact me via email (25benjaminli@gmail.com) or discord (Ben-L#0369) - thanks for visiting!
