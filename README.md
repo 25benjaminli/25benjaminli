@@ -13,6 +13,4 @@ Skills:
 - Experience with robotics (prior member of millburn robotics, learned control theory)
 - Git and github version management for projects
 
-Linkedin: https://www.linkedin.com/in/benjamin-li-613a16230/
-
 You can contact me via email (25benjaminli@gmail.com) or discord (Ben-L#0369) - thanks for visiting!
