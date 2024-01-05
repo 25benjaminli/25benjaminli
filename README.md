@@ -10,8 +10,8 @@ Skills:
 - Artificial Intelligence & ML (Computer vision with YOLOv5 & YOLOv8, Ensemble models (e.g. stacked, bagging), etc.)
 - Full stack - skills in both frontend & backend development, deployment to the web via platforms such as heroku
 - Development of multiple industry level web and mobile applications
-- Millburn Robotics member (control theory)
-- Experienced with git and github version management for projects
+- Experience with robotics (prior member of millburn robotics, learned control theory)
+- Git and github version management for projects
 
 Linkedin: https://www.linkedin.com/in/benjamin-li-613a16230/
 
