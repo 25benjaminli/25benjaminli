@@ -1,5 +1,5 @@
-# Hi, I'm Ben, a high schooler from the US! 👋
-## My interests include the creation and application of ML in research projects (especially in the realm of bioinformatics and metagenomics), as well as full stack development for web and mobile applications.
+# Hi, I'm Benjamin! 👋
+## My interests include the creation and application of ML in research projects (especially in the realm of bioinformatics and imaging), as well as full stack development for web and mobile applications.
 
 Stats:
 
@@ -7,10 +7,9 @@ Stats:
 
 
 Skills: 
-- Artificial Intelligence & ML (Computer vision with YOLOv5 & YOLOv8, Ensemble models (e.g. stacked, bagging), etc.)
-- Full stack - skills in both frontend & backend development, deployment to the web via platforms such as heroku
-- Development of multiple industry level web and mobile applications
-- Experience with robotics (prior member of millburn robotics, learned control theory)
+- Artificial Intelligence & ML (Computer vision, Bioinformatics, Medical Imaging, etc.)
+- Full stack - skills in both frontend & backend development, website testing & deployment
+- Experience with robotics (member of school's robotics team - VEX and FTC, learned control theory)
 - Git and github version management for projects
 
 You can contact me via email (25benjaminli@gmail.com) or discord (Ben-L#0369) - thanks for visiting!
