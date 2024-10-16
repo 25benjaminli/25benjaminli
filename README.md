@@ -8,7 +8,7 @@ Stats:
 Skills: 
 - Artificial Intelligence & ML (Computer vision, Bioinformatics, Medical Imaging, etc.)
 - Full stack - skills in both frontend & backend development, website testing & deployment
-- Experience with robotics (member of school's robotics team - VEX and FTC, learned control theory)
+- Experience with robotics (VEX, FTC)
 - Git and github version management for projects
 
 You can contact me via email (25benjaminli@gmail.com) or discord (Ben-L#0369) - thanks for visiting!
