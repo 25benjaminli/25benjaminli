@@ -2,4 +2,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/0fcc4e6d-00f1-4837-8d42-f65a48e76348.svg)](https://wakatime.com/@0fcc4e6d-00f1-4837-8d42-f65a48e76348)
 
-You can contact me via email (25benjaminli@gmail.com) or discord (Ben-L#0369) - thanks for visiting!
+Thanks for visiting!
