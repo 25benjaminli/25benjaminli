@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Benjamin.
+https://benjaminli.net/
 
-I'm a student at Cornell University interested in ML, particularly for usecases in healthcare and the environment! 
+I'm a student at Cornell University interested in AI/ML, especially the domains of resource/data efficiency and explainability/interpretability. Also excited about AI for healthcare and the environment.
 
-Check out my website [here](https://benjaminli.net/)!
-
-_"Remember to look up at the stars and not down at your feet"_ - Stephen Hawking
+For any inquiries, email 25benjaminli@gmail.com. See you around!
